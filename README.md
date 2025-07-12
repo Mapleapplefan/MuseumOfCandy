@@ -1,3 +1,18 @@
 # MuseumOfCandy.github.io
-A website for a hypothetical museum of candy
+A website for a hypothetical museum of candy 
 https://mapleapplefan.github.io/MuseumOfCandy.github.io/ 
+
+Skills Practiced
+--> CSS
+--> Bootstrap
+--> Javascript
+
+*Reacts to screen size changes
+<img width="1017" height="747" alt="Screenshot 2025-07-12 at 3 08 32 PM" src="https://github.com/user-attachments/assets/b2f209d4-3d1f-4ec3-ba40-1ec0bdeab3a2" />
+
+*Navigation bar using bootstrap
+<img width="496" height="747" alt="Screenshot 2025-07-12 at 3 09 01 PM" src="https://github.com/user-attachments/assets/1342ec34-a8a4-45c0-b08b-97d5c296cc1c" />
+
+
+
+

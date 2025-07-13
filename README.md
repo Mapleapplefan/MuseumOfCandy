@@ -3,7 +3,7 @@ A website for a hypothetical museum of candy
 https://mapleapplefan.github.io/MuseumOfCandy.github.io/ 
 
 
-# Update 1.0 
+## Update 1.0 
 Skills Practiced: CSS+Bootstrap
 
 *Reacts to screen size changes

@@ -7,6 +7,7 @@ https://mapleapplefan.github.io/MuseumOfCandy.github.io/
 Skills Practiced: Javascript
 
 *Navigation bar appears after scrolling
+
 <img width="538" height="486" alt="Screenshot 2025-08-08 at 11 14 49 AM" src="https://github.com/user-attachments/assets/a799b5a5-fbc2-4a49-992e-ed0e0f2034aa" />
 
 

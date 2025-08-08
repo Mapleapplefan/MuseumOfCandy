@@ -1,6 +1,6 @@
 # MuseumOfCandy.github.io
 A website for a hypothetical museum of candy built for WebDevelopmentBootcamp
-https://mapleapplefan.github.io/MuseumOfCandy.github.io/ 
+https://mapleapplefan.github.io/MuseumOfCandy
 
 
 ## Update 1.1

@@ -1,4 +1,4 @@
-# MuseumOfCandy.github.io
+# MuseumOfCandy
 A website for a hypothetical museum of candy built for WebDevelopmentBootcamp
 https://mapleapplefan.github.io/MuseumOfCandy
 
